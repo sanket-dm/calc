@@ -14,3 +14,5 @@ Currently implemented functions:
 - [x] 3 variable simultaneous equations
 - [x] matrix multiplication
 - [x] inverse of 3x3 matrix
+- [x] cos integration
+- [x] sin integration
